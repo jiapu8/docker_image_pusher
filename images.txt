@@ -1,1 +1,1 @@
-verizondigital/kubectl-flame:v0.2.4-python
+docker.getcollate.io/openmetadata/db:1.4.6
